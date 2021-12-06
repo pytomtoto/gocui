@@ -1,5 +1,5 @@
-module github.com/jroimartin/gocui
+module github.com/pytomtoto/gocui
 
 go 1.16
 
-require github.com/nsf/termbox-go v1.1.1
+require github.com/pytomtoto/termbox-go v1.1.2

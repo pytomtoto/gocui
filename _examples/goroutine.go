@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jroimartin/gocui"
+	"github.com/pytomtoto/gocui"
 )
 
 const NumGoroutines = 10
